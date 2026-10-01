@@ -1,4 +1,4 @@
-oauthlib==2.0.1
+oauthlib==4.0.0
 requests==2.33.0
 requests-oauthlib==0.7.0
 six==1.10.0
